@@ -1,7 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\migrations",
+    "\\public",
+    "\\scripts",
+    "\\src",
+    "\\src\\components",
+    "\\src\\contracts",
+    "\\test"
   ],
-  "SelectedNode": "\\C:\\Users\\asus\\Source\\Repos\\defi_yield_farming",
+  "SelectedNode": "\\truffle-config.js",
   "PreviewInSolutionExplorer": false
 }
